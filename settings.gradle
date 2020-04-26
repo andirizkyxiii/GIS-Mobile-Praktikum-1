@@ -1,0 +1,2 @@
+rootProject.name='GIS Mobile Prak 1'
+include ':app'
